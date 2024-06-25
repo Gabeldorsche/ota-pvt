@@ -1,0 +1,19 @@
+{
+  "response": [
+    {
+      "datetime": 1719338788,
+      "filename": "PixysOS-v7.3.1-GAPPS-coral-OFFICIAL-20240625-232305.zip",
+      "url": "https://dl.aswinaskurup.xyz/delta/coral/PixysOS-v7.3.1-GAPPS-coral-OFFICIAL-20240625-232305.zip",
+      "md5": "5d9f8c25c9873218c4271e6f1093610d",
+      "payload": [
+        {
+          "offset": 4356,
+          "FILE_HASH": "rJW9vimMkxXpkMWzrouZHEUiH9Bp/vGeae4xuwYjhnE=",
+          "FILE_SIZE": "23737086",
+          "METADATA_HASH": "s813p2jtjoL+OJfDzHni2+WnnEWzRMso3WXCyIhl7h8=",
+          "METADATA_SIZE": "154048"
+        }
+      ]
+    }
+  ]
+}
