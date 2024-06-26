@@ -1,0 +1,19 @@
+{
+  "response": [
+    {
+      "datetime": 1719413074,
+      "filename": "PixysOS-v7.3.1-GAPPS-Spacewar-OFFICIAL-20240626-201106.zip",
+      "url": "https://dl.aswinaskurup.xyz/delta/Spacewar/PixysOS-v7.3.1-GAPPS-Spacewar-OFFICIAL-20240626-201106.zip",
+      "md5": "49a29a2f3476b5cb32449a8136ea48ce",
+      "payload": [
+        {
+          "offset": 4918,
+          "FILE_HASH": "fUMzWT4W2NMXx+D3SRvoSXvAQb3ijsSEkP2cdgvs+mM=",
+          "FILE_SIZE": "1768997",
+          "METADATA_HASH": "odEE1SaZcff/7LmXT1MMD2VA3zSUcvYi+m4KGTl6UsQ=",
+          "METADATA_SIZE": "349879"
+        }
+      ]
+    }
+  ]
+}
