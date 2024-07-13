@@ -2,8 +2,9 @@
   "response": [
     {
       "datetime": 1720439425,
-      "filename": "PixysOS-v7.3.1-GAPPS-coral-OFFICIAL-20240708-171801.zip",
-      "url": "https://dl.aswinaskurup.xyz/delta/coral/PixysOS-v7.3.1-GAPPS-coral-OFFICIAL-20240708-171801.zip",
+      "filename": "PixysOS-v7.3.2-GAPPS-coral-OFFICIAL-20240714-171801.zip",
+      "expected_filename": "PixysOS-v7.3.2-GAPPS-coral-OFFICIAL-20240714-171801.zip",
+      "url": "https://dl.aswinaskurup.xyz/delta/coral/PixysOS-v7.3.2-GAPPS-coral-OFFICIAL-20240714-171801.zip",
       "md5": "90d3cc35d69163987f00dc80fa0f7f24",
       "payload": [
         {
