@@ -2,10 +2,9 @@
   "response": [
     {
       "datetime": 1721829709,
-      "filename": "PixysOS-v7.3.2-GAPPS-Spacewar-BETA-20240724-192748.zip",
-      "url": "https://dl.aswinaskurup.xyz/delta/Spacewar/PixysOS-v7.3.2-GAPPS-Spacewar-BETA-20240724-192748.zip",
+      "filename": "PixysOS-v7.3.2-GAPPS-Spacewar-BETA-20240723-192748.zip",
+      "url": "https://dl.aswinaskurup.xyz/.test/Spacewar/PixysOS-v7.3.2-GAPPS-Spacewar-BETA-20240723-192748.zip",
       "md5": "7db56a751fc19777ed013cd895f47214",
-      "expected_filename": "PixysOS-v7.3.2-GAPPS-Spacewar-BETA-20240721-210114.zip",
       "payload": [
         {
           "offset": 4745,
