@@ -1,10 +1,12 @@
-New Features 
+New Features & Improvements
 
 🔅 Brightness slider position customisation 
 🔐 More Pattern sizes. 
 🔍 Improved search feature in launcher
+🎮 Improved GameSpace
 
-Fixes & improvements 
+Fixes & Enhancements
 
 🌄 Fixed AI wallpaper generation.
 ⚒️  Fixed play integrity patch not setting up on clean installation
+📶 Fixed manual network selection
