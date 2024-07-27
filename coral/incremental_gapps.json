@@ -1,18 +1,18 @@
 {
   "response": [
     {
-      "datetime": 1721302641,
-      "filename": "PixysOS-v7.3.2-GAPPS-coral-BETA-20240718-170446.zip",
-      "expected_filename": "PixysOS-v7.3.2-GAPPS-coral-BETA-20240718-144056.zip",
-      "url": "https://dl.aswinaskurup.xyz/delta/coral/PixysOS-v7.3.2-GAPPS-coral-BETA-20240718-170446.zip",
-      "md5": "7d869d2a84134595a3c6fbacd994d9c8",
+      "datetime": 1722070548,
+      "filename": "PixysOS-v7.3.2-GAPPS-coral-BETA-20240727-141938.zip",
+      "url": "https://dl.aswinaskurup.xyz/delta/coral/PixysOS-v7.3.2-GAPPS-coral-BETA-20240727-141938.zip",
+      "md5": "9f0982e008ea08f97a795f608ae2e21e",
+      "expected_filename": "PixysOS-v7.3.2-GAPPS-coral-BETA-20240718-164258.zip",
       "payload": [
         {
-          "offset": 4256,
-          "FILE_HASH": "yplYIA/JpsF8cywrvhQ2tqEli6pAfe9wsGpyPOZz0sA=",
-          "FILE_SIZE": "312091",
-          "METADATA_HASH": "UtHFH1QGrhftFx+9RVlEliScnFNgOJygmRZ2SmIpS4k=",
-          "METADATA_SIZE": "102701"
+          "offset": 4304,
+          "FILE_HASH": "kY2syh2GTgmjWv53uBHmgEzWeVy4dDmGjDV2htqOVXA=",
+          "FILE_SIZE": "112736394",
+          "METADATA_HASH": "yuWL1LwPOl7hnPRgwkmxfbTi6cY5dKXfiWTz3SbIbAs=",
+          "METADATA_SIZE": "188052"
         }
       ]
     }
