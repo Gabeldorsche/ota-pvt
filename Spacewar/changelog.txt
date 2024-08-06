@@ -1,12 +1,10 @@
 New Features & Improvements
 
-🔅 Brightness slider position customisation 
-🔐 More Pattern sizes. 
-🔍 Improved search feature in launcher
-🎮 Improved GameSpace
+🔐 August 2024 security patch
+✨ Glyph: added auto brightness 
+🔓 Quick unlock for pin 
 
 Fixes & Enhancements
 
-🌄 Fixed AI wallpaper generation.
-⚒️  Fixed play integrity patch not setting up on clean installation
-📶 Fixed manual network selection
+⚒️ Updated kernel to latest google/qcom changes
+✨ Fixed glyph delays and crashes on some scenarios
