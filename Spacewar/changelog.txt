@@ -1,9 +1,7 @@
 New Features & Improvements
 
-🔐 August 2024 security patch
-🔓 Quick unlock for pin 
+** TBD **
 
 Fixes & Enhancements
 
-⚒️ Updated kernel to latest google/qcom changes
 ✨ Fixed glyph delays and crashes on some scenarios
