@@ -1,7 +1,6 @@
 New Features & Improvements
 
 🔐 August 2024 security patch
-✨ Glyph: added auto brightness 
 🔓 Quick unlock for pin 
 
 Fixes & Enhancements
