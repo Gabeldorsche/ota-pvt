@@ -1,18 +1,18 @@
 {
   "response": [
     {
-      "datetime": 1723642917,
-      "filename": "PixysOS-v7.3.3-GAPPS-Spacewar-BETA-20240814-185004.zip",
-      "url": "https://dl.aswinaskurup.xyz/delta/Spacewar/PixysOS-v7.3.3-GAPPS-Spacewar-BETA-20240814-185004.zip",
-      "md5": "d9b1bf73407b82b41774b3b38deda32f",
-   "expected_filename": "PixysOS-v7.3.3-GAPPS-Spacewar-BETA-20240814-140509.zip",
+      "datetime": 1723666594,
+      "filename": "PixysOS-v7.3.3-GAPPS-Spacewar-BETA-20240815-013651.zip",
+      "url": "https://dl.aswinaskurup.xyz/delta/Spacewar/PixysOS-v7.3.3-GAPPS-Spacewar-BETA-20240815-013651.zip",
+      "md5": "a6e0ed5d144e67d6cf2bba03d547742f",
+   "expected_filename": "PixysOS-v7.3.3-GAPPS-Spacewar-BETA-20240814-182818.zip",
       "payload": [
         {
-          "offset": 4829,
-          "FILE_HASH": "wd8m4zd5/GyA7KvaaDTphcub7sDKAd0QwuTsEd3OnHo=",
-          "FILE_SIZE": "20211130",
-          "METADATA_HASH": "E3k6BK1CFwkISsLc7f2Vd0mamNvY9cWvSBZiR0pnqMo=",
-          "METADATA_SIZE": "770338"
+          "offset": 4813,
+          "FILE_HASH": "DhFA4BdxbA1gBiIBHRLgwk0DRjquv6PwWsp3l8iwqyA=",
+          "FILE_SIZE": "6097532",
+          "METADATA_HASH": "CE/0q2l8IrHdP0RhQKyciPDBZaOb3zO+Yt+xXtgJeoA=",
+          "METADATA_SIZE": "376923"
         }
       ]
     }
